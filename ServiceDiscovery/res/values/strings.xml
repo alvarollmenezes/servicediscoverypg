@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Service Discovery</string>
+    <string name="menu_item_refresh">Refresh</string>
+    <string name="activity_chat">Wi-Fi Direct Chat Example</string>
+    <string name="btn_send">Send</string>
+    <string name="hint_chat">Type Your Message</string>
+
+</resources>
